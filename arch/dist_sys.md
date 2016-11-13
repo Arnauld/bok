@@ -2,11 +2,10 @@
 * [Scalable Web Architecture and Distributed Systems - Kate Matsudaira - aosabook](http://www.aosabook.org/en/distsys.html)
 * [Introduction to Distributed System Design - Google university](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
+## WebSite
 
 * http://highscalability.com/
 * http://the-paper-trail.org/blog/
-
-
 
 ## Storage
 

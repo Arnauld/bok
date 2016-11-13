@@ -2,6 +2,11 @@
 * [Scalable Web Architecture and Distributed Systems - Kate Matsudaira - aosabook](http://www.aosabook.org/en/distsys.html)
 * [Introduction to Distributed System Design - Google university](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
+Videos
+
+* [A Brief History of Distributed Programming: RPC - Christopher Meiklejohn](http://www.oredev.org/2016/sessions/a-brief-history-of-distributed-programming?__s=zikjvebspqjkm3cj9as1)
+* [Pragmatic Architecture, Today - Bart Blommaerts](http://www.oredev.org/2016/sessions/pragmatic-architecture-today-)
+
 ## WebSite
 
 * http://highscalability.com/

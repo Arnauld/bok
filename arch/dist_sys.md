@@ -32,3 +32,4 @@ Videos
 * http://fr.slideshare.net/pagsousa/models-of-distributed-computing
 * http://fr.slideshare.net/Rupsee/distributed-systems-1701403
 * http://fr.slideshare.net/tribhuvan284/characteristics-of-distributed-system
+* http://www.slideshare.net/dmconf/jepsen-v-kyle-kingsbury-key-note-distributed-matters-berlin-2015

@@ -6,6 +6,7 @@ Videos
 
 * [A Brief History of Distributed Programming: RPC - Christopher Meiklejohn](http://www.oredev.org/2016/sessions/a-brief-history-of-distributed-programming?__s=zikjvebspqjkm3cj9as1)
 * [Pragmatic Architecture, Today - Bart Blommaerts](http://www.oredev.org/2016/sessions/pragmatic-architecture-today-)
+* [Distributed Patterns you should know by Eric Redmond](https://www.youtube.com/watch?v=otWvr8VBRx0)
 
 ## WebSite
 

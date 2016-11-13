@@ -1,6 +1,16 @@
+* [Distributed systems - for fun and profit - mixu](http://book.mixu.net/distsys/single-page.html)
 * [Scalable Web Architecture and Distributed Systems - Kate Matsudaira - aosabook](http://www.aosabook.org/en/distsys.html)
 * [Introduction to Distributed System Design - Google university](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
+
+* http://highscalability.com/
+* http://the-paper-trail.org/blog/
+
+
+
+## Storage
+
+* http://books.cs.luc.edu/distributedsystems/storage.html
 
 
 ## To investigate
@@ -8,6 +18,7 @@
 * [There's Just No Getting around It: You're Building a Distributed System (ACM)](http://queue.acm.org/detail.cfm?id=2482856)
 * [Building Distributed Systems (Fall 2016)](https://zoo.cs.yale.edu/classes/cs426/2016fa/)
 * [Madhukar's Blog - Building Distributed Systems from Scratch - Part 1 - Dec 2, 2015](http://blog.madhukaraphatak.com/building-distributed-systems-from-scratch-part1/)
+* [CSE 223B: Distributed Computing and Systems](http://cseweb.ucsd.edu/classes/sp13/cse223B-a/syllabus.html)
 
 ## slideshare
 

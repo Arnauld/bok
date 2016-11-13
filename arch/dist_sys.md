@@ -16,6 +16,7 @@ Videos
 ## Storage
 
 * http://books.cs.luc.edu/distributedsystems/storage.html
+* http://www.slideshare.net/dmconf/replication-and-synchronization-algorithms-for-distributed-databases-lena-wiese
 
 
 ## To investigate
